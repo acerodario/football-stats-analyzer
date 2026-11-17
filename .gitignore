@@ -1,0 +1,6 @@
+# datos locales (la app los descarga con el botón Actualizar)
+data/
+# notas de trabajo del asistente
+.claude/
+__pycache__/
+*.pyc

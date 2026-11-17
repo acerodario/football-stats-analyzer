@@ -1,0 +1,4 @@
+playwright>=1.40
+ttkbootstrap>=2.2  # la app usa la API 2.x (ThemeDefinition(..., mode=))
+Pillow  # solo para tools/ui_smoke.py (capturas)
+pywin32  # identidad en la barra de tareas y accesos directos (Windows)
